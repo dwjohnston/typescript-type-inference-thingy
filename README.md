@@ -1,5 +1,7 @@
 # typescript-type-inference-thingy
 
+Repro for [this Stack Overflow Question](https://stackoverflow.com/questions/75380438/which-property-will-typescript-use-to-infer-its-generic-parameter). 
+
 Instructions 
 
 ```
